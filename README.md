@@ -1,2 +1,2 @@
-# Text-editro
+# Text-editor
 C#
